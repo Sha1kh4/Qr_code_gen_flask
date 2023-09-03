@@ -15,5 +15,6 @@ $ pip install -r req.txt
 ```
 $ flask run
 ```
+[On Pythonanywhere]( https://sha1kh4.pythonanywhere.com )
 
 ### Note: However this may need active internet connection to render css from tailwind
